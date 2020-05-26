@@ -1,2 +1,17 @@
-p { color:rgb(50,50,50)}
-footer { background-color: darkgreen;} .feet {color:white;}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Proza+Libre:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+
+h1 {font-family: "Proza Libre", Verdana; font-style: italic;}
+h3, h4 {font-family: "Proza Libre", Verdana;}
+p {font-family: "Open Sans", sans-serif;}
+p { color:rgb(43, 43, 43)}
+ul {font-family: "Open Sans", sans-serif; }
+.ingress {font-style: italic; font-style: oblique;}
+
+footer { background-color: darkgreen;} 
+.feet {color:white;}
+h1{background-image: url("images/BrightSun.JPG" );}
+
+.left {text-align: justify;} 
+.center,
+.right
