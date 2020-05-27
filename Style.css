@@ -12,6 +12,13 @@ footer { background-color: darkgreen;}
 .feet {color:white;}
 h1{background-image: url("images/BrightSun.JPG" );}
 
-.left {text-align: justify;} 
-.center,
-.right
+
+.pics {display: flex;
+flex-direction: row;
+align-items: center; justify-content: space-evenly;
+}
+.hobby {display: flex;
+; flex-direction: column; align-items: center;}
+.hobby {padding: 25px;}
+
+h1, ul, {padding: 20px;}
